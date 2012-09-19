@@ -16,5 +16,6 @@ public class ArrayDemo {
 		System.out.println(anArray[1]);
 		System.out.println(anArray[2]);
 		System.out.println(anArray[3]);
+		System.out.println(anArray.length);
 	}
 }
